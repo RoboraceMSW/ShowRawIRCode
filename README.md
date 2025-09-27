@@ -1,6 +1,9 @@
 ## ShowRawIRCode
-Displays scrolling codes from IR Remote Control,
-on [DFRobot Maqueen v.5](https://www.dfrobot.com/product-2937.html)
+Displays scrolling codes from IR Remote Control on the [Micro:bit](https://microbit.org/) LED-matrix,<br/>
+using the [DFRobot Maqueen v.5](https://www.dfrobot.com/product-2937.html) IR receiver.
+<br/>
+<img src="./Maqueen_v5_nbg.png" alt="Maqueen v.5 Robot" width="50%" height="50%">
+<br/>
 
 
 
