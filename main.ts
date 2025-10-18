@@ -3,6 +3,3 @@ IR.IR_callbackUser(function () {
 })
 Maqueen_V5.I2CInit()
 IR.IR_init()
-basic.forever(function () {
-	
-})
